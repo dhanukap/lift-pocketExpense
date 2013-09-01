@@ -1,0 +1,11 @@
+target
+*.tlog
+*.*~
+*.db
+*.swp
+project/project/target
+project/target
+*.log
+*.tlog
+*.cache
+*.classpath
